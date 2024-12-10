@@ -1,3 +1,10 @@
+# Overview
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/5ca05ae8-9823-4b93-b4ee-696deaf42d21" width="30%" alt="First Screenshot">
+  <img src="https://github.com/user-attachments/assets/24e99ce1-a1bb-4f6f-870b-cfb792c9f910" width="30%" alt="Second Screenshot">
+</div>
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
